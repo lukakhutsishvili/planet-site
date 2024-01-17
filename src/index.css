@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio&family=League+Spartan:wght@400;700&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(src/assets/background-stars.svg);
+  background-repeat: no-repeat;
+  background-position-y: 30px;
+  background-color: #070724;
+  display: flex;
+  flex-direction: column;
+}
+
+.first {
+  margin-right: 28px;
+}
+span {
+  margin-right: 25px;
+}
+
